@@ -93,3 +93,6 @@ Build the editor once (the packaging step's cook needs the module), then package
 - `Source/VulkanExitFix/Private/VulkanExitFix.cpp`: the whole mod (the `RHIExit` hook).
 - `VulkanExitFix.uplugin`: metadata (`RequiredOnRemote: false`, SML and game version requirements).
 - `Resources/Icon128.png`: in-game icon. `Art/vulcan-glove-v4-cropped-512.png`: ficsit.app icon.
+
+### License
+MIT, see [LICENSE](LICENSE).
